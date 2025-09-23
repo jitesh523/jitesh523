@@ -56,7 +56,7 @@
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="100" alt="pixel-fire-left"/>
 </td>
 <td align="center">
-  <h3>► THANKS FOR PLAYING ◄</h3>
+  <h3>► THANKS FOR VISITING ◄</h3>
 </td>
 <td width="150">
   <img src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif" width="100" alt="pixel-fire-right"/>
