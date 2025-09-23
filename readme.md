@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0ejBkOXB2Z3NvODV2eGR4OTF0NXFldTUzcWZydG9jcXV5MTdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k81NasbqkKA5HSyJxN/giphy.gif" width="80%" alt="pixel-world-banner"/>
   
   <h1>
-    🕹️ jitesh 🕹️
+    🕹️ R Jitesh 🕹️
   </h1>
   
   <p>
