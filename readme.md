@@ -2,7 +2,7 @@
 
 <!-- Typing Header -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+Jitesh+⚡;Cyber+Punk+Geek;AI+%7C+ML+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+R Jitesh+⚡;Cyber+Punk+Geek;AI+%7C+ML+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Big Neon Title -->
