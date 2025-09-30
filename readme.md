@@ -83,7 +83,7 @@
   <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="100" alt="pixel-fire-left"/>
 </td>
 <td align="center">
-  <h3 style="color:#ff00ff;">► THANKS FOR PLAYING ◄</h3>
+  <h3 style="color:#ff00ff;">► THANKS FOR VISITING ◄</h3>
   <p style="color:#39FF14;">⬢ Code ⬢ Create ⬢ Escape ⬢ Repeat ⬢</p>
 </td>
 <td width="150">
