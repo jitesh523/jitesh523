@@ -68,12 +68,12 @@
 
 ---
 
-## 🏰 Guild Links
+## 🏰 Guild Links 
 <p align="center">
   <a href="https://github.com/jitesh523"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/></a>
 </p>
 
----
+----
 
 <div align="center">
 
