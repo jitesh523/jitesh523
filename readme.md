@@ -5,7 +5,7 @@
 
 <!-- Neon Typing -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🕹️+Jitesh+🕹️; Cyberpunk+Pixel+Adventurer;⚡+Code+%7C+AI+%7C+Dreams+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🕹️+Jitesh+🕹️;Cyberpunk+Pixel+Adventurer;⚡+Code+%7C+AI+%7C+Dreams+⚡" alt="Typing SVG" />
 </p>
 
 <!-- Big Neon Title -->
